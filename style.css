@@ -1,0 +1,64 @@
+.container {
+  margin: auto;
+}
+
+.main{
+  text-align: center;
+  box-sizing: border-box;
+  margin: auto;
+  width: 980px;
+  height: 129px;
+
+}
+
+.left{
+  text-align: left;
+}
+
+.right{
+  text-align: right;
+}
+
+.searchbox {
+
+}
+
+.searchbox input[type="text"]{
+width: 503px;
+height: 34px;
+margin-top: 25px;
+}
+
+.button-container{
+  display: block;
+  text-align: center;
+  font-size: 13px;
+  padding-top: 18px;
+  line-height: 27px;
+}
+
+.button-container input[type="submit"]{
+  box-sizing: border-box;
+  display: inline-block;
+  text-align: center;
+
+;
+
+}
+
+.image-container{
+margin-top: 89px;
+}
+
+.img-container img{
+  display: block;
+  text-align: center;
+  margin: auto;
+  width: 272px;
+  height: 92px;
+  padding-top: 109px;
+}
+
+header {
+  text-align: right;
+}
